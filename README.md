@@ -1,0 +1,1 @@
+These are my preferred Prettier settings. Meant to be used with [`eslint-config-lowmess`](https://github.com/lowmess/eslint-config-lowmess).
