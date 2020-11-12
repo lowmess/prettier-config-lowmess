@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-lowmess",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Shareable prettier config for my personal projects",
   "main": "index.js",
   "repository": "https://github.com/lowmess/prettier-config-lowmess.git",
